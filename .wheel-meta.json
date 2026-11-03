@@ -1,0 +1,22 @@
+{
+  "wheel_id": 711,
+  "structure": "umbrella",
+  "slug": "goldcoastkitchenreno-106",
+  "project": "kitchen-renovations-gold-coast-diy-vs-professional-9ad789557e1c",
+  "parent_t1_ref": "goldcoastkitchenreno-153",
+  "node_role": "feeder",
+  "money_target": "goldcoastkitchenreno.com.au",
+  "primary_kw": "kitchen renovations gold coast diy vs professional",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-gold-coast-diy-vs-professional-9ad789557e1c/",
+  "tier": "T2",
+  "writeback_nonce": "700b15e2ab3ee025",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-gold-coast-maintenance-1021e9c36b5caaf3a936/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
